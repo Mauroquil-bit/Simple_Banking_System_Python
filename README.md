@@ -27,7 +27,24 @@ Este proyecto es parte de los desafíos de programación ofrecidos por [Hyperski
 
 ## Instalación y Uso
 
-Instrucciones sobre cómo instalar y ejecutar el proyecto localmente.
+Antes de comenzar, asegúrate de tener Python instalado en tu sistema. Este proyecto fue desarrollado utilizando Python 3.8.
+
+### Requisitos previos
+
+Para ejecutar este proyecto necesitarás:
+
+- Python 3.x
+- pip (gestor de paquetes de Python)
+- SQLite3
+
+### Configuración del entorno
+
+Recomendamos crear un entorno virtual para gestionar las dependencias:
+
+```bash
+python -m venv env
+source env/bin/activate  # En Windows usa `env\Scripts\activate`
+
 
 ## Contribuir
 
@@ -39,7 +56,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Autor
 
-* **Tu Nombre** - *Trabajo Inicial* - [Perfil de Hyperskill](https://hyperskill.org/profile/415935286)
+* **Mauricio Mercado** - *Trabajo Inicial* - [Perfil de Hyperskill](https://hyperskill.org/profile/415935286)
 
 ## Agradecimientos
 
