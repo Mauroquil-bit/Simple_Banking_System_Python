@@ -44,6 +44,7 @@ Recomendamos crear un entorno virtual para gestionar las dependencias:
 ```bash
 python -m venv env
 source env/bin/activate  # En Windows usa `env\Scripts\activate`
+```
 
 
 ## Contribuir
