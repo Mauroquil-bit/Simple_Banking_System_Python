@@ -1,6 +1,6 @@
 # Sistema Bancario Simple en Python
 
-<img width="353" alt="image" src="https://github.com/Mauroquil-bit/Simple_Banking_System_Python/assets/75552002/b5546381-7288-460a-a5cf-d94629e48894">
+<img width="412" alt="image" src="https://github.com/Mauroquil-bit/Simple_Banking_System_Python/assets/75552002/26ac9e32-39c6-447a-af91-04c6bf3b1f1f">
 
 
 
