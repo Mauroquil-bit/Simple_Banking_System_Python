@@ -46,9 +46,23 @@ python -m venv env
 source env/bin/activate  # En Windows usa `env\Scripts\activate`
 ```
 
-## Curiosidades:  ¿Cómo es el Algoritmo de Luhn?
+## Curiosidades: ¿Cómo es el Algoritmo de Luhn?
 
+El Algoritmo de Luhn, también conocido como "fórmula de Luhn", "modulus 10" o "mod 10 algorithm", es un método simple de suma de verificación utilizado para validar una variedad de números de identificación, principalmente números de tarjetas de crédito. Fue desarrollado por Hans Peter Luhn, un científico de IBM.
 
+### ¿Cómo funciona?
+
+Piensa en el Algoritmo de Luhn como un vigilante que verifica la legitimidad de los números de una tarjeta de crédito antes de que se procese una transacción. Aquí te explico cómo:
+
+- **Comienza desde el final**: Empieza con el último dígito de un número y muévete hacia atrás (de derecha a izquierda).
+
+- **Alterna y multiplica**: Multiplica cada segundo dígito por dos. Si este producto es mayor que 9 (por ejemplo, 8 * 2 = 16), súmale los dígitos (1 + 6 = 7) para obtener un único dígito.
+
+- **Suma todo**: Suma todos los dígitos, tanto los modificados como los que no.
+
+- **El gran final**: Si el total de la suma es un múltiplo de 10 (es decir, si es divisible por 10 sin dejar residuo), entonces el número es válido según el Algoritmo de Luhn.
+
+Este proceso ayuda a confirmar que el número de tarjeta de crédito es potencialmente válido y no una serie aleatoria de dígitos.
 
 ## Contribuir
 
