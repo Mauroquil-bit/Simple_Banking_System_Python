@@ -1,5 +1,9 @@
 # Sistema Bancario Simple en Python
 
+<img width="353" alt="image" src="https://github.com/Mauroquil-bit/Simple_Banking_System_Python/assets/75552002/b5546381-7288-460a-a5cf-d94629e48894">
+
+
+
 Este es el proyecto "Sistema Bancario Simple en Python" que he realizado personalmente.
 
 En la era actual, donde todo se digitaliza, el dinero no es la excepción. Hoy en día, la mayoría de las personas poseen tarjetas de crédito que nos ahorran tiempo y energía, protegiéndonos del estrés innecesario. Las tarjetas facilitan nuestra vida de diversas maneras, desde evitarnos llevar una billetera llena de efectivo hasta ofrecernos protección al consumidor. En este proyecto, desarrollarás un sistema bancario simple con base de datos.
@@ -42,4 +46,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 * Agradecimientos a Hyperskill por proveer el esqueleto del proyecto.
 * Agradecimientos a todos los que han contribuido al proyecto.
 
-![Imagen del Sistema Bancario Simple](url-de-la-imagen-aqui)
+
