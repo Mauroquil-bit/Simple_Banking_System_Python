@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Banking System (Python)/*
+!/Simple Banking System (Python)/task/
+/Simple Banking System (Python)/task/*
+!/Simple Banking System (Python)/task/banking
