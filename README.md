@@ -46,6 +46,9 @@ python -m venv env
 source env/bin/activate  # En Windows usa `env\Scripts\activate`
 ```
 
+## Curiosidades:  ¿Cómo es el Algoritmo de Luhn?
+
+
 
 ## Contribuir
 
