@@ -63,6 +63,7 @@ Piensa en el Algoritmo de Luhn como un vigilante que verifica la legitimidad de 
 - **El gran final**: Si el total de la suma es un múltiplo de 10 (es decir, si es divisible por 10 sin dejar residuo), entonces el número es válido según el Algoritmo de Luhn.
 
 Este proceso ayuda a confirmar que el número de tarjeta de crédito es potencialmente válido y no una serie aleatoria de dígitos.
+Puedes buscar en el código la función "def luhn_algorithm(card_number):" para ver como lo resolví.  Aclaro que el proyecto tardé un mes en completarlo, no fue nada fácil para mi.
 
 ## Contribuir
 
