@@ -1,5 +1,3 @@
-![Apoyo a Ucrania](URL_DE_LA_IMAGEN)
-
 
 # Sistema Bancario Simple en Python
 
